@@ -1,5 +1,7 @@
 # How to use FontAwesome in an Ionic App
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/amandeepmittal/ionic-use-font-awesome.svg)](https://greenkeeper.io/)
+
 ![](http://i.imgur.com/Ijb6V4Q.jpg)
 
 There is an element of confusion when it comes to use FontAwesome in an Ionic Application. To include this fonts library in Ionic needs a bit of configuration and this step by step guide will provide just that.
